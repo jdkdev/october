@@ -1,0 +1,6 @@
+{
+    "require": {
+        "shipping-docker/vessel": "^4.0",
+        "predis/predis": "^1.1"
+    }
+}
